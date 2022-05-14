@@ -40,6 +40,6 @@ text file.
 Any fix: It can be easily fixed by removing the excess white spaces and new lines.
 
 Why is it not fixed?
-	Removing white spaces is a bit tiring and unmotivating. Moreover other genres work
+	-- Removing white spaces is a bit tiring and unmotivating. Moreover other genres work
 	perfectly fine. The bug will be fixed soon or the genre for shakespear will be removed
 	completely.
