@@ -1,0 +1,12 @@
+todo
+1 introduce a function in hash table  to count the number of key inserted
+2 compare the countlen in point '1'
+3 if doesnt work figure it out
+	else
+	{
+	find the word next to key and make it a list and attach to value
+	}
+
+C:\BellyPot\C_programs_on_Sublime\Language Generator Hashing>gcc -o output Word_write.c hash_table.c
+
+C:\BellyPot\C_programs_on_Sublime\Language Generator Hashing>output
