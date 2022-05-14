@@ -1,2 +1,3 @@
 # Story Generator
  
+.exe
